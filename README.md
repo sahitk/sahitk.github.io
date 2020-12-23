@@ -2,6 +2,8 @@ I'm Sahit Kavukuntla, a first-year [Computer Science](https://scs.gatech.edu/) m
 
 You can read more about me at my [LinkedIn](https://www.linkedin.com/in/sahit-k). I'm currently seeking a summer internship in software engineering, data science, or machine learning so I can pout what I learn in the classroom to use, as well as learn more about the industry.
 
+[resume](http://sahitk.com/Resume_Updated.pdf)
+
 The rest of this website is still a work in progress, so please be patient! I will certainly be editing it in the future.
 
 I can be contacted through my [Instagram](https://www.instagram.com/sahitkavukuntla/) or [email](mailto:sahitk@gatech.edu).
